@@ -636,7 +636,7 @@ export default function Game() {
                                     boxShadow: "0 0 30px #000",
                                     textAlign: "center",
                                     fontFamily: "monospace",
-                                    fontSize: "1.2rem",
+                                    fontSize: "1rem",
                                     maxWidth: "90vw",
                                 }}
                             >
@@ -648,6 +648,9 @@ export default function Game() {
                                     It's a fun way to raise awareness about the issue and encourage people to think about
                                     the importance of using 64-bit systems.
                                 </div>
+                                <a href="https://github.com/s4nj1th/y2k38">source code</a>
+                                <br />
+                                <br />
                                 <button
                                     onClick={() => {
                                         setGamePaused(false);
