@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Bitcount+Grid+Single:wght@100..900&display=swap');
+
+body {
+    height: full;
+    width: full;
+    margin: 0;
+    font-family: "Bitcount Grid Single", monospace, sans-serif;
+}
