@@ -12,6 +12,7 @@ y2k38 is a playful browser game inspired by the Year 2038 problem (Y2K38 bug), w
 
 <div align="center">
   <img src="screenshots/01.png" width="720">
+  <img src="screenshots/02.png" width="720">
 </div>
 
 ## Local Setup
